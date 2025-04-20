@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Namal",
+        "author": "Nimrah Ahmed",
+        "year": "2014",
+        "genre": "revenge",
+        "read": true
+    },
+    {
+        "title": "Namal",
+        "author": "Nimrah Ahmed",
+        "year": "2014",
+        "genre": "revenge",
+        "read": false
+    }
+]
